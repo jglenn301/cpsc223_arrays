@@ -23,6 +23,7 @@ int main()
 
   printf("Average: %lf\n", total / SIZE);
 
+  return 0;
 }
 
 double total_array(size_t n, double a[])
